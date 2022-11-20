@@ -32,13 +32,16 @@ df["returns"] = df["Ultimo"] - df["Ultimo"].shift(1)
 
 #plotto i returns del FTSEMIB
 plt.plot(df["returns"])
-#plotto la distribuzione dei ritorni (segue una normale)
-sns.histplot(df["returns"], kde=True)
+#plotto la distribuzione dei ritorni (FTSEMIB) (segue una normale)
+sns.histplot(df["returns"], kde=True, label="Distribuzione dei Returns Giornalieri")
+plt.legend()
+plt.title("FTSEMIB")
 
 #######################################
 #######################################
 df2 = pd.read_excel("/Users/giuseppecangemi/Desktop/ftse/btp.xlsx")
 df2 = df2[::-1]
+df2["returns"] = df2["Ultimo"] - df2["Ultimo"].shift(1)
 #rappresento graficamente il rendimento di chiusura del BTP
 fig, ax = plt.subplots()
 ax.plot('Data', 'Ultimo', data=df2)
@@ -47,6 +50,13 @@ ax.set_ylabel("Prezzo Chiusura")
 ax.set_title("Serie Storica Prezzo Chiusura FTSEMIB")
 for label in ax.get_xticklabels(which='major'):
     label.set(rotation=30, horizontalalignment='right')
+    
+#plotto i returns del BTP
+plt.plot(df2["returns"])
+#plotto la distribuzione dei ritorni (BTP) (segue una normale)
+sns.histplot(df2["returns"], kde=True, label="Distribuzione dei Returns Giornalieri")
+plt.legend()
+plt.title("BTP")    
 
 #######################################################
 # Faccio merge per eliminare i dati con differente data
