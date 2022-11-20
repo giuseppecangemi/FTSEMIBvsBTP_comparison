@@ -70,14 +70,12 @@ plt.axhline(10000, color="black", linestyle="--")
 plt.legend()
 plt.title("Contronto Profit-Loss (FTSEMIB-BTP) se investissimo 10k tra il 3Gen2022 e il 18Nov2022 \n" + pl_ftse + "/ " + pl_btp)
 
-
 #CALCOLO LA CORRELAZIONE TRA FTSE-BTP RETURNS
 #DF_MERGED PER CREARE DF CON STESSA DIMENSIONE
 df_merged = df_2022_ftse.merge(df_2022_btp.drop_duplicates(), on=['Data'], 
                    how='left', indicator=True)
 #df_merged = df_merged.dropna()
 np.corrcoef(df_merged["Ultimo_x"], df_merged["Ultimo_y"])
-
 
 ######################################################
 ######################################################
@@ -93,8 +91,6 @@ for i, row in df.iterrows():
     
 plt.plot(return_ftse)  
 
-
-    
 #######################
 df2 = pd.read_excel("/Users/giuseppecangemi/Desktop/ftse/btp_all.xlsx")
 df2 = df2[::-1]
