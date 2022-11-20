@@ -1,15 +1,9 @@
-![fig_1](https://user-images.githubusercontent.com/65014444/202912928-8c29bb7e-c50e-46d0-bbe7-7bcb359947d4.jpg)
+![fig1](https://user-images.githubusercontent.com/65014444/202923835-9bc0fbde-779d-40d1-b760-8581e5fdc279.png)
 
-<img width="1030" alt="Schermata 2022-11-20 alle 13 52 37" src="https://user-images.githubusercontent.com/65014444/202912958-6cbb9fd3-0522-4b99-a24f-e3991234758a.png">
 
-<img width="857" alt="Schermata 2022-11-20 alle 13 51 05" src="https://user-images.githubusercontent.com/65014444/202912960-2d67c4d9-12a5-444f-80f8-917568d6984f.png">
+<img width="1114" alt="fig3" src="https://user-images.githubusercontent.com/65014444/202923779-33b6e213-1181-40ac-a370-8e48e0086cf2.png">
 
-<img width="930" alt="Schermata 2022-11-20 alle 17 16 07" src="https://user-images.githubusercontent.com/65014444/202913179-f4d2ec36-e804-4707-b87b-2c28b6f4210a.png">
 
-<img width="951" alt="Schermata 2022-11-20 alle 13 51 44" src="https://user-images.githubusercontent.com/65014444/202913248-3aeb3eb2-15a0-472e-bb4e-bdb554d32fe5.png">
+![Schermata 2022-11-20 alle 20 29 21](https://user-images.githubusercontent.com/65014444/202923648-eb6be809-9748-49eb-b4e7-aa7d9171deb4.png)
 
-<img width="893" alt="Schermata 2022-11-20 alle 13 51 57" src="https://user-images.githubusercontent.com/65014444/202913231-5360e289-930b-48f4-9e36-cbbf9a0b51c9.png">
-
-<img width="903" alt="Schermata 2022-11-20 alle 13 52 53" src="https://user-images.githubusercontent.com/65014444/202913235-7b03678d-c86f-4bfa-9413-5219776617d9.png">
-
-<img width="1030" alt="Schermata 2022-11-20 alle 13 53 36" src="https://user-images.githubusercontent.com/65014444/202913264-678f2f56-4b86-443f-85ae-1c00593a7b88.png">
+![fig4](https://user-images.githubusercontent.com/65014444/202923874-c3e2d476-12c9-455c-8452-625dcedcbe20.png)
