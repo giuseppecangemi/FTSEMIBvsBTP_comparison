@@ -1,13 +1,15 @@
-<img width="1031" alt="Schermata 2022-11-20 alle 13 49 27" src="https://user-images.githubusercontent.com/65014444/202912823-10645922-fe86-4813-b89f-0c4f66587744.png">
+![fig_1](https://user-images.githubusercontent.com/65014444/202912928-8c29bb7e-c50e-46d0-bbe7-7bcb359947d4.jpg)
 
-<img width="1030" alt="Schermata 2022-11-20 alle 13 52 37" src="https://user-images.githubusercontent.com/65014444/202912617-df131e54-24f7-47d2-9e2b-bfb28ec52916.png">
+<img width="1030" alt="Schermata 2022-11-20 alle 13 52 37" src="https://user-images.githubusercontent.com/65014444/202912958-6cbb9fd3-0522-4b99-a24f-e3991234758a.png">
 
-<img width="857" alt="Schermata 2022-11-20 alle 13 51 05" src="https://user-images.githubusercontent.com/65014444/202912620-c20a7532-7135-40a9-82d5-e1aea62a6927.png">
+<img width="857" alt="Schermata 2022-11-20 alle 13 51 05" src="https://user-images.githubusercontent.com/65014444/202912960-2d67c4d9-12a5-444f-80f8-917568d6984f.png">
 
-<img width="951" alt="Schermata 2022-11-20 alle 13 51 44" src="https://user-images.githubusercontent.com/65014444/202912623-24d314dd-1fbf-4a59-a4d4-5fb67534a4e5.png">
+<img width="930" alt="Schermata 2022-11-20 alle 17 16 07" src="https://user-images.githubusercontent.com/65014444/202913179-f4d2ec36-e804-4707-b87b-2c28b6f4210a.png">
 
-<img width="893" alt="Schermata 2022-11-20 alle 13 51 57" src="https://user-images.githubusercontent.com/65014444/202912628-66cc92bd-1b0f-40fe-8220-f0e824eeb1c0.png">
+<img width="951" alt="Schermata 2022-11-20 alle 13 51 44" src="https://user-images.githubusercontent.com/65014444/202913248-3aeb3eb2-15a0-472e-bb4e-bdb554d32fe5.png">
 
-<img width="903" alt="Schermata 2022-11-20 alle 13 52 53" src="https://user-images.githubusercontent.com/65014444/202912632-e4249754-80a4-46b0-91e9-6d703c533caa.png">
+<img width="893" alt="Schermata 2022-11-20 alle 13 51 57" src="https://user-images.githubusercontent.com/65014444/202913231-5360e289-930b-48f4-9e36-cbbf9a0b51c9.png">
 
-<img width="1030" alt="Schermata 2022-11-20 alle 13 53 36" src="https://user-images.githubusercontent.com/65014444/202912688-d14a9389-f96f-42fd-af63-87d0b794b2ff.png">
+<img width="903" alt="Schermata 2022-11-20 alle 13 52 53" src="https://user-images.githubusercontent.com/65014444/202913235-7b03678d-c86f-4bfa-9413-5219776617d9.png">
+
+<img width="1030" alt="Schermata 2022-11-20 alle 13 53 36" src="https://user-images.githubusercontent.com/65014444/202913264-678f2f56-4b86-443f-85ae-1c00593a7b88.png">
