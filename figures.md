@@ -1,3 +1,4 @@
+![fig_1](https://user-images.githubusercontent.com/65014444/202912743-49cbc31d-68fe-4c94-a2a0-f39562ba76d2.jpg)
 
 
 <img width="1030" alt="Schermata 2022-11-20 alle 13 52 37" src="https://user-images.githubusercontent.com/65014444/202912617-df131e54-24f7-47d2-9e2b-bfb28ec52916.png">
