@@ -175,12 +175,6 @@ corr
 correlation = np.corrcoef(dataframe)
 plt.matshow(correlation)
 plt.show()
-
-
-#i rendimenti tra btp e ftsemib sembrano essere maggiormdente correlati \\
-    #sull'intero campione che nell'ultimo anno. Probabilmente perché i rendimenti \\
-        #dell'azionariato sono aumentati? mentre quelli del btp abbassati? \\
-            #in entrambi i casi la correlazione è negativa. 
             
 #######################################
 ####################################### 
@@ -247,15 +241,5 @@ plt.legend()
 #creo plot
 plt.plot(arr_corr_all)    
 plt.plot(arr_corr)     
-
-#non mi sembra ci siano grosse differenze.
-    
-
-    
-        
-        
-
-
-
 
 
